@@ -24,19 +24,20 @@
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?  
+    <br />
       **One conclusion** I can make about the Outcomes based on Launch Date is that the best months of the year to launch a campaign were May and June, as both months had over 100 successful campaigns.
-  <br />
+    <br />
       **Another conclusion** I can draw is that there were a very low amount of canceled campaigns for each month, and in October no campaigns were canceled.  This shows me that the majority of the campaigns were ran all the way through.
-  <br />
+   <br />
 - What can you conclude about the Outcomes based on Goals?
-  <br />
+    <br />
     Based on the Outcomes Based on Goals analysis, I can conclude that there were no Canceled campaigns.  Also, because there were no failed campaigns, the percentages for the failed campaigns vs the successful campaigns were opposites.  The line chart displays this visually.
-  <br />
+   <br />
 - What are some limitations of this dataset?
-  <br />
+   <br />
   **One limitation** of this dataset is that there are many different formats to the data.  Originally the dates were formatted in epoch dates which then needed to be formatted to the date style that we normally use in order to be able to read the data by month/year.
-  <br />
+   <br />
 - What are some other possible tables and/or graphs that we could create?
-  <br />
+   <br />
     Another possible graph I could have created could have been similar to Outcomes Based on Launch Date, but instead of being filtered by Months, it could have been filtered by Years to show which years had better success?
-  <br />
+    <br />
