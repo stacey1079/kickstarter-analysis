@@ -18,7 +18,7 @@
 
 
 ### Challenges and Difficulties Encountered
-  One of the challenges I faced for Outcomes Based on Goals was when writing the CountIFS function was finding the appropriate order to pull the data.  It took me a while to figure out that the formula would not work if I placed the 'greater than' or 'equal to' first values next to the 'less than' or 'equal to' larger value.  I still do not really know why it was necessary to put the data from column F in between the two, but the formula would not work otherwise for me.
+  One of the challenges I faced for Outcomes Based on Goals was when writing the COUNTIFS() function was finding the appropriate order to pull the data.  It took me a while to figure out that the formula would not work if I placed the 'greater than' or 'equal to' first values next to the 'less than' or 'equal to' larger value.  I still do not really know why it was necessary to put the data from column F in between the two, but the formula would not work otherwise for me.
   It also took me some time, along with many google searches, to figure out how to filter the Year by Months for the Outcomes Based on Launch Date chart. 
 ## Results
 
@@ -27,7 +27,7 @@
       **Another conclusion** I can draw is that there were a very low amount of canceled campaigns for each month, and in October no campaigns were canceled.  This shows me that the majority of the campaigns were ran all the way through.
 
 - What can you conclude about the Outcomes based on Goals?
-    Because there were no Canceled campaigns, the percentages for the failed campaigns vs the successful campaigns were opposites.  The line chart displays this visually.
+    Based on the Outcomes Based on Goals analysis, I can conclude that there were no Canceled campaigns.  Also, because there were no failed campaigns, the percentages for the failed campaigns vs the successful campaigns were opposites.  The line chart displays this visually.
     
 - What are some limitations of this dataset?
 
