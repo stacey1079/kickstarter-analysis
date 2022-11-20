@@ -14,7 +14,8 @@
 ![image](https://user-images.githubusercontent.com/45715246/202884896-52b88c32-a6b3-4424-8bdb-7e682c9b586a.png)
 
 ### Analysis of Outcomes Based on Goals
-![image](https://user-images.githubusercontent.com/45715246/202884945-0f86699c-e32f-4c7f-8f4b-c04a73e51c17.png)
+![image](https://user-images.githubusercontent.com/45715246/202884977-d1aff5e6-fd90-4058-b724-1416e1f49744.png)
+
 
 ### Challenges and Difficulties Encountered
   One of the challenges I faced for Outcomes Based on Goals was when writing the CountIFS function was finding the appropriate order to pull the data.  It took me a while to figure out that the formula would not work if I placed the 'greater than' or 'equal to' first values next to the 'less than' or 'equal to' larger value.  I still do not really know why it was necessary to put the data from column F in between the two, but the formula would not work otherwise for me.
