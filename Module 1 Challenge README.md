@@ -31,5 +31,6 @@
     Based on the Outcomes Based on Goals analysis, I can conclude that there were no Canceled campaigns.  Also, because there were no failed campaigns, the percentages for the failed campaigns vs the successful campaigns were opposites.  The line chart displays this visually.
     
 - What are some limitations of this dataset?
+  **One limitation** of this dataset is that there are many different formats to the data.  Originally the dates were formatted in epoch dates which then needed to be formatted to the date style that we normally use in order to be able to read the data by month/year.
 
 - What are some other possible tables and/or graphs that we could create?
