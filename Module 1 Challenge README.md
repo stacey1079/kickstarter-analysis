@@ -35,7 +35,7 @@
 - What are some limitations of this dataset?
     <br />
   **One limitation** of this dataset is that there are many different formats to the data.  Originally the dates were formatted in epoch dates which then needed to be formatted to the date style that we normally use in order to be able to read the data by month/year.
-    <br />
+    &nbsp;
 - What are some other possible tables and/or graphs that we could create?
     <br />
      Another possible graph I could have created could have been similar to Outcomes Based on Launch Date, but instead of being filtered by Months, it could have been filtered by Years to show which years had better success?
