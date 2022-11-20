@@ -7,7 +7,7 @@
 ### Purpose
   This purpose of this challenge was to create charts for Louise to be able to visualize how well other campaigns did in relation to their launch date and fundraising goals.  I was to deliver two charts to Louise based on technical analyses drawn from the Kickstarter campaigns.  The first analysis was to visualize the relationship between the outcomes of the campaigns based on their launch dates.  The second analysis was to display the percentages of the outcomes of each campaign in relation to their funding goals.
 ## Analysis and Challenges
-  Overall, the directions were very clear and easy to interpret into my work.  There were only small challenges I encountered such as figuring out the proper values to add into the pivot charts, and how to sort them appropriately.  
+  Overall, the directions were very clear and easy to interpret into my work.  There were only small challenges I encountered such as figuring out the proper values to add into the pivot charts, and how to sort them appropriately.  The largest challenge I encountered was figuring out the syntax for the COUNTIFS() function for a portion of the Outcomes Based on Goals.  
 
   
 ### Analysis of Outcomes Based on Launch Date
