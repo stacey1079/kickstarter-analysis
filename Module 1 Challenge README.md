@@ -8,13 +8,13 @@
   This purpose of this challenge was to create charts for Louise to be able to visualize how well other campaigns did in relation to their launch date and fundraising goals.  I was to deliver two charts to Louise based on technical analyses drawn from the Kickstarter campaigns.  The first analysis was to visualize the relationship between the outcomes of the campaigns based on their launch dates.  The second analysis was to display the percentages of the outcomes of each campaign in relation to their funding goals.
 ## Analysis and Challenges
   Overall, the directions were very clear and easy to interpret into my work.  There were only small challenges I encountered such as figuring out the proper values to add into the pivot charts, and how to sort them appropriately.  
-  
-![image](https://user-images.githubusercontent.com/45715246/202884882-9bbd954a-d4f1-466e-bb39-c727672a7169.png)
 
   
 ### Analysis of Outcomes Based on Launch Date
+![image](https://user-images.githubusercontent.com/45715246/202884896-52b88c32-a6b3-4424-8bdb-7e682c9b586a.png)
 
 ### Analysis of Outcomes Based on Goals
+![image](https://user-images.githubusercontent.com/45715246/202884945-0f86699c-e32f-4c7f-8f4b-c04a73e51c17.png)
 
 ### Challenges and Difficulties Encountered
   One of the challenges I faced for Outcomes Based on Goals was when writing the CountIFS function was finding the appropriate order to pull the data.  It took me a while to figure out that the formula would not work if I placed the 'greater than' or 'equal to' first values next to the 'less than' or 'equal to' larger value.  I still do not really know why it was necessary to put the data from column F in between the two, but the formula would not work otherwise for me.
