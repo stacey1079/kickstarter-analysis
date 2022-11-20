@@ -8,7 +8,6 @@
 ## Analysis and Challenges
   Overall, the directions were very clear and easy to interpret into my work.  There were only small challenges I encountered such as figuring out the proper values to add into the pivot charts, and how to sort them appropriately.  
   
-  ![image](https://user-images.githubusercontent.com/45715246/202884676-3cd7b60e-788a-4031-8487-feaae6e62deb.png)
 
   
 ### Analysis of Outcomes Based on Launch Date
