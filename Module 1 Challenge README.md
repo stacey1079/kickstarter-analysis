@@ -9,6 +9,7 @@
 ## Analysis and Challenges
   Overall, the directions were very clear and easy to interpret into my work.  There were only small challenges I encountered such as figuring out the proper values to add into the pivot charts, and how to sort them appropriately.  
   
+![image](https://user-images.githubusercontent.com/45715246/202884882-9bbd954a-d4f1-466e-bb39-c727672a7169.png)
 
   
 ### Analysis of Outcomes Based on Launch Date
@@ -21,9 +22,8 @@
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?  
-      One conclusion I can make about the Outcomes based on Launch Date is that the best months of the year to launch a campaign were May and June, as both months had over 100 successful campaigns.
-      
-      The other conclusion I can draw is that there were a very low amount of canceled campaigns for each month, and in October no campaigns were canceled.  This shows me that the majority of the campaigns were ran all the way through.
+      **One conclusion** I can make about the Outcomes based on Launch Date is that the best months of the year to launch a campaign were May and June, as both months had over 100 successful campaigns.
+      **Another conclusion** I can draw is that there were a very low amount of canceled campaigns for each month, and in October no campaigns were canceled.  This shows me that the majority of the campaigns were ran all the way through.
 
 - What can you conclude about the Outcomes based on Goals?
     Because there were no Canceled campaigns, the percentages for the failed campaigns vs the successful campaigns were opposites.  The line chart displays this visually.
