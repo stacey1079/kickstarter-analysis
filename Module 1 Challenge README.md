@@ -1,9 +1,9 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-  In this Module 1 Challenge, I was to deliver two charts to Louise based on technical analyses drawn from the Kickstarter campaigns.  The first analysis was to visualize the relationship between the outcomes of the campaigns based on the launch date.  The second analysis was to display the outcomes of the campaigns based on goals.
+  In this Module 1 Challenge, 
 ### Purpose
-  This purpose of this challenge was for Louise to be able to visualize how well other campaigns did in relation to their launch date and fundraising goals.
+  This purpose of this challenge was for Louise to be able to visualize how well other campaigns did in relation to their launch date and fundraising goals.  I was to deliver two charts to Louise based on technical analyses drawn from the Kickstarter campaigns.  The first analysis was to visualize the relationship between the outcomes of the campaigns based on their launch dates.  The second analysis was to display the percentages of the outcomes of each campaign in relation to their funding goals.
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
