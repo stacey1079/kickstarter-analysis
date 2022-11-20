@@ -24,14 +24,15 @@
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?  
+  \
     &nbsp;
       **One conclusion** I can make about the Outcomes based on Launch Date is that the best months of the year to launch a campaign were May and June, as both months had over 100 successful campaigns.
       &nbsp;
-      **Another conclusion** I can draw is that there were a very low amount of canceled campaigns for each month, and in October no campaigns were canceled.  This shows me that the majority of the campaigns were ran all the way through.
+      **Another conclusion** I can draw is that there were a very low amount of canceled campaigns for each month, and in October no campaigns were canceled.  This shows me that the majority of the campaigns were ran all the way through.\
     &nbsp;
 - What can you conclude about the Outcomes based on Goals?
     &nbsp;
-    Based on the Outcomes Based on Goals analysis, I can conclude that there were no Canceled campaigns.  Also, because there were no failed campaigns, the percentages for the failed campaigns vs the successful campaigns were opposites.  The line chart displays this visually.
+    Based on the Outcomes Based on Goals analysis, I can conclude that there were no Canceled campaigns.  Also, because there were no failed campaigns, the percentages for the failed campaigns vs the successful campaigns were opposites.  The line chart displays this visually.\
     &nbsp;
 - What are some limitations of this dataset?
     &nbsp;
