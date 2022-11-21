@@ -37,8 +37,8 @@
     &nbsp;
 - What are some limitations of this dataset?\
     &nbsp;
-  One limitation of this dataset is that there are many different formats to the data.  Originally the dates were formatted in epoch dates which then needed to be formatted to the date style that we normally use in order to be able to read the data by month/year.\
+  One limitation of this dataset is that there are many different formats to the data.  Originally the dates were formatted in epoch dates which then needed to be formatted to the date style that we normally use in order to be able to read the data by month/year.  Once the date was reformatted, it was able to be used in the pivot table for the Theatre Outcomes by Launch Date.\
     &nbsp;
 - What are some other possible tables and/or graphs that we could create?\
     &nbsp;
-     Another possible graph I could have created could have been similar to Outcomes Based on Launch Date, but instead of being filtered by Months, it could have been filtered by Years to show which years had better success?
+     Another possible graph I could have created could have been similar to Outcomes Based on Launch Date, but instead of being filtered by Months, filter it by Year.  By doing this, the chart would show which years had better success, and which years did not.  I think this could have been beneficial to see if the economics for each year had an impact on the campaigns.
